@@ -161,6 +161,15 @@ PERSONAL INFORMATION
 
 Beyond my professional work, I value maintaining a balanced and active lifestyle that supports both my productivity and creativity. I enjoy playing tennis and staying physically active, as regular exercise helps me maintain focus, discipline, and resilience—qualities that I also bring into my professional work. In my free time, I like listening to rock music, which has always been a source of energy and inspiration for me. These personal interests reflect my commitment to continuous growth, curiosity, and maintaining a healthy balance between professional challenges and personal well-being.
 
+
+ABOUT RISK MANAGEMENT
+
+While my academic background is in engineering rather than finance, it has equipped me with a very strong quantitative and analytical foundation that aligns naturally with the core principles of risk management. Through my formation, I have developed the ability to work with complex mathematical models, analyze systems under uncertainty, and translate theoretical frameworks into practical, data-driven insights.
+
+In addition, my experience as a Data Analyst at Nissan strengthened my ability to work with large-scale operational data, develop analytical solutions, and support decision-making in a fast-paced business environment. There, I focused on improving data processes, automating pipelines, and generating insights that helped monitor performance and optimize operations.
+
+Combined with my strong background in data science and machine learning, I am comfortable building models, identifying patterns in complex datasets, and quantifying uncertainty—capabilities that are central to modern risk management. Equally important, my research career has trained me to quickly understand new domains and translate complex problems into structured analytical frameworks. I believe this combination of quantitative rigor, industry experience, and adaptability allows me to contribute effectively to risk management teams, even coming from a non-traditional finance background.
+
 """
 
 # ---- Chat history ----
